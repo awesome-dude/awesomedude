@@ -1,3 +1,3 @@
 function dude(){
-   alert("still-awesome");
+   alert("yoo!-awesome");
 }
