@@ -1,5 +1,5 @@
 function dude(){
-   alert("yoo!-awesome");
+   document.body.innerHTML = ""
    var canv=document.createElement("canvas");
    canv.setAttribute("id", "q");
    document.body.appendChild(canv);
